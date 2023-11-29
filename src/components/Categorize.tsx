@@ -2,7 +2,7 @@ import { MdAdUnits, MdAdd, MdClose, MdDragIndicator } from "react-icons/md";
 
 const Categorize = () => {
   return (
-    <div className="border-solid border-2 border-gray-200 rounded-md p-4 mt-3 bg-white">
+    <div className="border-solid border-2 border-gray-200 rounded-md p-8 mt-3 bg-white">
         {/* <h4 className="font-semibold">Categorize</h4> */}
         <div className="flex flex-col mt-2">
             <div className="flex">
