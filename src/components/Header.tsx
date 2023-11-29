@@ -5,7 +5,7 @@ const Header = () => {
     const [fileName, setFileName] = useState<string>("No file selected");
 
     return (
-        <div className='border-solid border-t-4 border-indigo-500 rounded-md p-4 mt-3 bg-white'>
+        <div className='border-solid border-t-4 border-indigo-500 rounded-md p-8 mt-3 bg-white'>
             <div className='flex justify-between '>
                 <div className="flex flex-col mt-6">
                     <label className="text-gray-700 font-bold">Enter Title</label>

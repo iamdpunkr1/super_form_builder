@@ -2,7 +2,7 @@ import { MdClose, MdDragIndicator } from "react-icons/md"
 
 const Cloze = () => {
   return (
-    <div className="border-solid border-2 border-gray-200 rounded-md p-4 mt-3 bg-white">
+    <div className="border-solid border-2 border-gray-200 rounded-md p-8 mt-3 bg-white">
         {/* Preview */}
         <div className="flex flex-col mt-2">
             <h5 className="">Preview <span className="font-semibold text-red-500">*</span></h5>
